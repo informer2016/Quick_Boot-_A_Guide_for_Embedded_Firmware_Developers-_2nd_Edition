@@ -1,0 +1,14 @@
+*** Useful for coreboot BIOS developers, U-Boot and other open source embedded firmware engineers! ***
+
+Quick Boot is designed to give developers a background in the basic
+architecture and details of a typical boot sequence. More specifically,
+this book describes the basic initialization sequence that allows
+developers the freedom to boot an OS without a fully featured system
+BIOS. Various specifications provide the basics of both the code bases
+and the standards. This book also provides insights into optimization
+techniques for more advanced developers. With proper background
+information, the required specifications on hand, and diligence, many
+developers can create quality boot solutions using this text. 
+
+ISBN 13: 978-1501515385 (SCAN)
+ISBN 13: 978-1-5015-0681-9 (TEXT)
